@@ -1,0 +1,2 @@
+# FlareX
+FlareX - AirDrop Script
