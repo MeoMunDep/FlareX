@@ -3,5 +3,6 @@
   "countdown": 300,
   "country_time": "en-US",
   "buyPlanets": true,
+  "delayEachAccount": [1, 81],
   "playGames": true
 }
