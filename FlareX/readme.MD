@@ -72,6 +72,6 @@ http://user:password@host:port
 
 💡 Usage:
 
-    To run the bot, use the following command: `cd flarex-main/flarex; node bot`
+    To run the bot, use the following command: `cd flarex-main/flarex; node MEOMUNDEP`
 
 🎇Enjoy!
